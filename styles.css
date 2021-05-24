@@ -1,0 +1,122 @@
+body {
+    background-color: rgba(245, 245, 245, 0.74);
+}
+
+.pagination {
+padding-left: 650px;
+}
+
+.btn-primary {
+    background-color: rgb(56, 163, 56);
+    
+}
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive; 
+    color: rgb(117, 116, 116); 
+    padding-left: 10px;
+}
+
+img {
+   width: 476px;
+    height: 280px;
+    margin: 3px;
+    border-width: 15px;
+}
+
+
+.btn-group{
+    background: gray;
+}
+
+header {
+	padding: 10px;
+	background: white;
+}
+
+header h1{
+	margin: 0
+}
+
+div.post {
+	margin-top: 50px;
+}
+
+div.post img {
+	width: 100%;
+}
+
+div.container {
+	width: 690px;
+	margin: auto;
+}
+
+div.post h2, div.post p {
+	padding: 8px;
+	margin: 0;
+}
+
+div.post{
+	display: inline-block;
+}
+	
+
+
+.post-header {
+	float: left;
+}
+
+.photo-date {
+
+	float: right;
+	padding-top: 14px;
+	padding-right: 10px;
+	color: gray;
+}
+
+.margen {
+	margin: 50px;
+	background: white;
+
+}
+
+h3 {
+    padding-top: 9px;
+    padding-bottom: 0px;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.far {
+     padding-left: 10px;
+    font-size: 18px;
+}
+   
+
+h2 {
+    font-size: 20px;
+}
+
+.like-comment {
+    text-align: left;
+    color: gray;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+ul {
+    background: rgba(245, 245, 245, 0.829);
+}
+
+ul .nav-link {
+    background-color: whitesmoke;
+}
+
+.fas{
+    color: lightgray;
+}
+
